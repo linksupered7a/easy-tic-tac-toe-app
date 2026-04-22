@@ -1,2 +1,9 @@
-# easy-tic-tac-toe-app
-A simple tic tac toe project
+# Tic Tac Toe
+
+A simple tic tac toe project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
